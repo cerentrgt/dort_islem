@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653351529248",
+    "project_id": "dortislem-f4cf2",
+    "storage_bucket": "dortislem-f4cf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653351529248:android:cd0cf62ce0d013c8fcc545",
+        "android_client_info": {
+          "package_name": "com.example.dort_islem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653351529248-k4bhj5fuogk04hb3e0h9ragncv33d89i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Aa7cj1WJQsO5gcjR3wMa0CFS2Rr2mn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653351529248-k4bhj5fuogk04hb3e0h9ragncv33d89i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
